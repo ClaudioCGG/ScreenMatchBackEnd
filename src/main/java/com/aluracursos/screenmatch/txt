@@ -1,0 +1,17 @@
+//                case 9:
+//                    buscarTop5Episodios();
+//                    break;
+
+
+
+//    private void buscarTop5Episodios() {
+//        mostrarSeriesPorTitulo();
+//        if(serieBuscada.isPresent()){
+//            Serie serie = serieBuscada.get();
+//            List<Episodio> topEpisodios = repositorio.top5Episodios(serie);
+//            topEpisodios.forEach(e ->
+//                    System.out.printf("Serie: %s - Temporada %s - Episodio %s - Evaluación %s\n",
+//                            e.getSerie().getTitulo(), e.getTemporada(), e.getTitulo(), e.getEvaluacion()));
+//
+//        }
+//    }
